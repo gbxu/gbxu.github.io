@@ -22,7 +22,8 @@ Zhiqi Lin,  Youshan Miao, *<u>Guanbin Xu</u>*,  Cheng Li,  Olli Saarikivi,  Saee
 
 **Tessel: Boosting Distributed Execution of Large DNN Models via Flexible Schedule Search.**\
 Zhiqi Lin,  Youshan Miao, *<u>Guanbin Xu</u>*,  Cheng Li,  Olli Saarikivi, Saeed Maleki and Fan Yang.\
-2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA). [CCF-A]
+2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA). [CCF-A]\
+[Paper](https://arxiv.org/pdf/2311.15269), [Code](https://github.com/zhiqi-0/Tessel)
 
 **PerfEstimator: A Generic and Extensible Performance Estimator for Data Parallel DNN Training.**\
 Chengru Yang,  Zhehao Li,  Chaoyi Ruan, *<u>Guanbin Xu</u>*,  Cheng Li, Ruichuan Chen, and Feng Yan.\
