@@ -12,7 +12,7 @@ I am a Ph.D. student at Department of Computer Sciences, [University of Science 
 My research interests focus on distributed DNN systems, LLM.
 
 # Publications {#publications}
-**TCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training.**\
+**AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training.**\
 *<u>Guanbin Xu</u>*, Zhihao Le, Yinhe Chen, Zhiqi Lin, Zewen Jin, Youshan Miao, Cheng Li.\
 2025 USENIX Symposium on Networked Systems Design and Implementation (NSDI). Acceptance rate 13.7%. [CCF-A]
 
