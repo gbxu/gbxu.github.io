@@ -43,8 +43,8 @@ Ye Lu,  Kunpeng Xie, *<u>Guanbin Xu</u>*,  Han Dong,  Cheng Li,  and Tao Li.\
 2019.10 - 2020.6
 
 # Teaching {#teaching}
-- Teaching Assistant for **Graph Theory**, Fall 2018, tutor: Yinlong Xu & Min Lv\
-- Teaching Assistant for **Compiler Principle**, Fall 2019, tutor: Cheng Li\
+- Teaching Assistant for **Graph Theory**, Fall 2018, tutor: Yinlong Xu & Min Lv
+- Teaching Assistant for **Compiler Principle**, Fall 2019, tutor: Cheng Li
 - Teaching Assistant for **Combinatorial Mathematics**, Fall 2020, tutor: Yinlong Xu & Min Lv
 
 # Activities
