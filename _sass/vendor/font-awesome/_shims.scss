@@ -887,11 +887,11 @@
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400;
 }
-.#{$fa-css-prefix}.#{$fa-css-prefix}-wechat {
+.#{$fa-css-prefix}.#{$fa-css-prefix}-telegram {
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400;
 }
-.#{$fa-css-prefix}.#{$fa-css-prefix}-wechat:before { content: unquote("\"#{ $fa-var-weixin }\""); }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-telegram:before { content: unquote("\"#{ $fa-var-weixin }\""); }
 .#{$fa-css-prefix}.#{$fa-css-prefix}-send:before { content: unquote("\"#{ $fa-var-paper-plane }\""); }
 .#{$fa-css-prefix}.#{$fa-css-prefix}-paper-plane-o {
   font-family: 'Font Awesome 6 Free';

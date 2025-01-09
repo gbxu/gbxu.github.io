@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student at Department of Computer Sciences, [University of Science and Technology of China](https://ustc.edu.cn/) from Fall 2018. I am currently advised by [Prof. Cheng Li](https://scholar.google.com/citations?user=3Fdv_mIAAAAJ). I obtained my Bachelor’s degree in Computer Sciences from [Sichuan University](https://scu.edu.cn/) in 2018.
 
-My research interests focus on distributed DNN systems, LLM.
+My research interests focus on Distributed DNN systems, LLM systems.
 
 # Publications {#publications}
 **AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training.**\
@@ -27,11 +27,11 @@ Zhiqi Lin,  Youshan Miao, *<u>Guanbin Xu</u>*,  Cheng Li,  Olli Saarikivi, Saeed
 
 **PerfEstimator: A Generic and Extensible Performance Estimator for Data Parallel DNN Training.**\
 Chengru Yang,  Zhehao Li,  Chaoyi Ruan, *<u>Guanbin Xu</u>*,  Cheng Li, Ruichuan Chen, and Feng Yan.\
-2021 IEEE/ACM International Workshop on Cloud Intelligence (CloudIn-telligence). [Workshop]
+2021 IEEE/ACM International Workshop on Cloud Intelligence (Cloud-Intelligence). [Workshop]
 
 **MTFC: A Multi-GPU Training Framework for Cube-CNN-based Hyperspectral Image Classification.**\
 Ye Lu,  Kunpeng Xie, *<u>Guanbin Xu</u>*,  Han Dong,  Cheng Li,  and Tao Li.\
-2020 IEEE Transactions on Emerging Topics in Computing. [SCI-2]
+2020 IEEE Transactions on Emerging Topics in Computing. (TETC) [SCI-2]
 
 # Work Experience {#works}
 **Research Intern**\
@@ -47,3 +47,5 @@ Teaching Assistant for **Graph Theory**, Fall 2018, tutor: Yinlong Xu & Min Lv\
 Teaching Assistant for **Compiler Principle**, Fall 2019, tutor: Cheng Li\
 Teaching Assistant for **Combinatorial Mathematics**, Fall 2020, tutor: Yinlong Xu & Min Lv
 
+# Activities
+* Reviewer at TETC
