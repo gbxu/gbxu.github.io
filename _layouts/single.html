@@ -67,6 +67,8 @@ layout: default
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
+        <!-- change w=0 to w=300 to show the map -->
+        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=0&t=n&d=mfG7Pk3d8AjMN24ZafVgC3Qu1WnRtykSbY03NG8kbig'></script>
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
