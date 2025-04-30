@@ -11,7 +11,7 @@ I am a Ph.D. student at Department of Computer Sciences, [University of Science 
 
 My research interests focus on Distributed DNN systems, LLM systems.
 
-**Expected to graduate in 2025, I am actively seeking AI Infrastructure-related positions in the industry, preferably in Shanghai.** 
+**Expected to graduate in November 2025, I am actively seeking AI Infrastructure-related positions in the industry, preferably in Shanghai.** 
 
 # Publications {#publications}
 **AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training.**\
