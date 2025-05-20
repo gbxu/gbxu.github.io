@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Department of Computer Sciences, [University of Science and Technology of China](https://ustc.edu.cn/) from Fall 2018. I am currently advised by [Prof. Cheng Li](https://scholar.google.com/citations?user=3Fdv_mIAAAAJ). I obtained my Bachelor’s degree in Computer Sciences from [Sichuan University](https://scu.edu.cn/) in 2018.
+I am a Ph.D. student at Department of Computer Sciences, [University of Science and Technology of China](https://ustc.edu.cn/) from Fall 2018. I am currently advised by [Prof. Cheng Li](https://scholar.google.com/citations?user=3Fdv_mIAAAAJ). I obtained my Bachelor’s degree in Computer Sciences (with [honors](https://baike.baidu.com/item/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AF%95%E9%AA%8C%E8%AE%A1%E5%88%92/3486963)) from [Sichuan University](https://scu.edu.cn/) in 2018.
 
 My research interests focus on Distributed DNN systems, LLM systems.
 
@@ -16,7 +16,8 @@ My research interests focus on Distributed DNN systems, LLM systems.
 # Publications {#publications}
 **AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training.**\
 *<u>Guanbin Xu</u>*, Zhihao Le, Yinhe Chen, Zhiqi Lin, Zewen Jin, Youshan Miao, Cheng Li.\
-2025 USENIX Symposium on Networked Systems Design and Implementation (NSDI). Acceptance rate 13.7%. [CCF-A]
+2025 USENIX Symposium on Networked Systems Design and Implementation (NSDI). Acceptance rate 12.5%. [CCF-A]\
+[Paper](https://www.usenix.org/conference/nsdi25/presentation/xu-guanbin), [Code](https://github.com/gbxu/autoccl)
 
 **Efficient Schedule Construction for Distributed Execution of Large DNN Models.**\
 Zhiqi Lin,  Youshan Miao, *<u>Guanbin Xu</u>*,  Cheng Li,  Olli Saarikivi,  Saeed Maleki, and Fan Yang.\
@@ -51,3 +52,9 @@ Ye Lu,  Kunpeng Xie, *<u>Guanbin Xu</u>*,  Han Dong,  Cheng Li,  and Tao Li.\
 
 # Activities
 - Reviewer at TETC
+
+# Invited talks
+- The 28th Symposium on Computer Systems of China (ChinaSys'25), May, 2025, in Chongqing, China.
+- ByteDance Seed team, May, 2025, online
+- The 22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI'25), April, 2025, in Philadelphia, PA, USA.
+- Theory Laboratory under Huawei's 2012 Laboratories, February, 2025, in Hefei, China.
