@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a LLM system researcher at Hunyuan AI infra department of Tencent. I received my Ph.D. from [University of Science and Technology of China](https://ustc.edu.cn/),  advised by [Prof. Cheng Li](https://scholar.google.com/citations?user=3Fdv_mIAAAAJ). I obtained my Bachelor’s degree in Computer Sciences (with [honors](https://baike.baidu.com/item/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AF%95%E9%AA%8C%E8%AE%A1%E5%88%92/3486963)) from [Sichuan University](https://scu.edu.cn/).
+I am a LLM system researcher at [Hunyuan AI infra department](https://hunyuan.tencent.com/news/home) of Tencent. I received my Ph.D. from [University of Science and Technology of China](https://ustc.edu.cn/),  advised by [Prof. Cheng Li](https://scholar.google.com/citations?user=3Fdv_mIAAAAJ). I obtained my Bachelor’s degree in Computer Sciences (with [honors](https://baike.baidu.com/item/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AF%95%E9%AA%8C%E8%AE%A1%E5%88%92/3486963)) from [Sichuan University](https://scu.edu.cn/).
+
+ **I am actively seeking self-motivated research interns. Please send me your CV.**
 
 # Publications {#publications}
 **AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training.**\
