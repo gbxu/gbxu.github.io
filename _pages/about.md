@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Department of Computer Sciences, [University of Science and Technology of China](https://ustc.edu.cn/) from Fall 2018. I am currently advised by [Prof. Cheng Li](https://scholar.google.com/citations?user=3Fdv_mIAAAAJ). I obtained my Bachelor’s degree in Computer Sciences (with [honors](https://baike.baidu.com/item/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AF%95%E9%AA%8C%E8%AE%A1%E5%88%92/3486963)) from [Sichuan University](https://scu.edu.cn/) in 2018.
-
-My research interests focus on Distributed DNN systems, LLM systems.
-
-**Available to start from November 2025 onwards, I am actively seeking full-time positions in AI Infrastructure within the industry.** 
+I am a LLM system researcher at Hunyuan AI infra department of Tencent. I received my Ph.D. from [University of Science and Technology of China](https://ustc.edu.cn/),  advised by [Prof. Cheng Li](https://scholar.google.com/citations?user=3Fdv_mIAAAAJ). I obtained my Bachelor’s degree in Computer Sciences (with [honors](https://baike.baidu.com/item/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AF%95%E9%AA%8C%E8%AE%A1%E5%88%92/3486963)) from [Sichuan University](https://scu.edu.cn/).
 
 # Publications {#publications}
 **AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training.**\
@@ -37,6 +33,10 @@ Ye Lu,  Kunpeng Xie, *<u>Guanbin Xu</u>*,  Han Dong,  Cheng Li,  and Tao Li.\
 2020 IEEE Transactions on Emerging Topics in Computing. (TETC) [SCI-2]
 
 # Work Experience {#works}
+**Senior Researcher**\
+[Tencent Hunyuan](https://hunyuan.tencent.com/news/home), in Shanghai, China\
+2025.12 - Now
+
 **Research Intern**\
 [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), in Beijing, China\
 2021.3 - 2022.8
